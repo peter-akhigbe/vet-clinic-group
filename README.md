@@ -101,6 +101,10 @@ insert files...
 - Twitter: [@peter_akhigbe_](https://twitter.com/peter_akhigbe_)
 - LinkedIn: [peter-akhigbe](https://linkedin.com/in/peter-akhigbe)
 
+👤 **Felix KAMANA**
+- GitHub: [@githubhandle](https://github.com/fezzopro)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamana-felix/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
