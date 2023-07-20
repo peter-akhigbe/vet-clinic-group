@@ -48,7 +48,7 @@ CREATE TABLE visits(
 
 -- 
 -- index on the animal_id column
-CREATE INDEX index_visits_animal_id ON visits (animal_id);
+CREATE INDEX index_visits_animal_id ON visits  (animal_id);
 
 -- index on the vet_id column
 CREATE INDEX index_visits_vet_id ON visits (vet_id);
